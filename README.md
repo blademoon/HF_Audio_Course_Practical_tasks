@@ -1,0 +1,2 @@
+# HF_Audio_Course_Practical_tasks
+Репозиторий содержащий решения практических заданий по курсу [Hugging Face Audio Transformers](https://huggingface.co/learn/audio-course/chapter0/introduction)
